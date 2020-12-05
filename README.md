@@ -1,4 +1,4 @@
-# Natural Language Processing with Classification and Vector Spaces
+# Natural Language Processing Specialization
 
 In Course 1 of the Natural Language Processing Specialization, offered by deeplearning.ai, you will:   
 
